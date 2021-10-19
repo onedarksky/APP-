@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "Hogwarts-Library-Wallpaper-Harry-Potter-NZ-Kids-Rooms_2400x.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

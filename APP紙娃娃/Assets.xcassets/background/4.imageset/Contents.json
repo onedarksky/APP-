@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "UOR_DiagonAlley_VB.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
